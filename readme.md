@@ -3,13 +3,13 @@
 - raiz :white_check_mark:
 - services / api :white_check_mark:
 - global :white_check_mark:
-- components
+- components :construction:
 - pages
 
 ------------------------------------------arquivos-------------------------------------------------
 
-- src/components/Food/index.jsx;
-- src/components/Food/styles.js;
+- src/components/Food/index.jsx; :white_check_mark:
+- src/components/Food/styles.js; :white_check_mark:
 - src/components/Header/index.jsx;
 - src/components/Header/styles.js;
 - src/components/Input/index.jsx;
