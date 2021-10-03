@@ -1,3 +1,13 @@
+---------------------------------------partes----------------------------------------------
+
+- raiz :white_check_mark:
+- services / api :white_check_mark:
+- global
+- components
+- pages
+
+------------------------------------------arquivos-------------------------------------------------
+
 - src/components/Food/index.jsx;
 - src/components/Food/styles.js;
 - src/components/Header/index.jsx;
@@ -17,8 +27,5 @@
 - src/App.js; :white_check_mark:
 - src/index.js. :white_check_mark:
 
-- raiz :white_check_mark:
-- services / api :white_check_mark:
-- global
-- components
-- pages
+
+
