@@ -2,7 +2,7 @@
 
 - raiz :white_check_mark:
 - services / api :white_check_mark:
-- global
+- global :white_check_mark:
 - components
 - pages
 
@@ -23,7 +23,7 @@
 - src/pages/Dashboard/styles.js;
 - src/routes/index.jsx; :white_check_mark:
 - src/services/api.js; :white_check_mark:
-- src/styles/global.js;
+- src/styles/global.js; :white_check_mark:
 - src/App.js; :white_check_mark:
 - src/index.js. :white_check_mark:
 
